@@ -11,14 +11,14 @@ while (str1[i] == str2[i] && str1[i] != '\0')
    {
       printf("\n",str1[i]);
    }
-      else if(str1[i]>str2[i])
-      {
-      printf("\n",str1[i]);	
-      }
-      else
-      {
-      	printf("\n",str1[i]);
-      }
+     else if(str1[i]>str2[i])
+     {
+     printf("\n",str1[i]);	
+     }
+     else
+     {
+     	printf("\n",str1[i]);
+     }
       
       
 return 0;
