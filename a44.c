@@ -1,7 +1,7 @@
 #include <stdio.h>
 void main()
 {
-	char a[20];
+char a[20];
 	int i;
 	printf("enter the character:\n");
 	scanf("%s",&a);
