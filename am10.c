@@ -1,13 +1,7 @@
 #include <stdio.h>
-
- 
-
 int main(void) 
-
 {
-
 int x,y,temp;
-
 printf("\n enter two numbers to swap:");
 
 scanf("%d %d",&x,&y);
