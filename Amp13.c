@@ -4,7 +4,7 @@ int main(void) {
 	scanf("%d %d %d",&a,&b,&n);
 	if((n>=a)&&(n<=b))
 	printf("yes");
-	else
+else
 	printf("no");
 	return 0;
 }
