@@ -11,8 +11,7 @@ int main(void)
 	scanf("%s",a);
 
 
-
-	int i,flag=0,m;
+int i,flag=0,m;
 
 	m=strlen(a);
 
